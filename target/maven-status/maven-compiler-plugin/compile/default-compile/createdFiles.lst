@@ -1,5 +1,4 @@
 com\portfolioalpuinle\ap\repository\RExperiencia.class
-com\portfolioalpuinle\ap\WebConfig.class
 com\portfolioalpuinle\ap\service\SExperiencia.class
 com\portfolioalpuinle\ap\controller\CExperiencia.class
 com\portfolioalpuinle\ap\security\controller\Mensaje.class
