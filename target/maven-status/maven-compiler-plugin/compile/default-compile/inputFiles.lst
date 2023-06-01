@@ -2,14 +2,17 @@ C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\Ba
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\controller\AuthController.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\service\SHyS.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\controller\CExperiencia.java
+C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\controller\CEducacion.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\controller\Mensaje.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\MainSecurity.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\entity\UsuarioPrincipal.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\service\ImpPersonaService.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\controller\PersonaController.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\controller\CHyS.java
+C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\repository\REducacion.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\entity\Usuario.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\repository\RExperiencia.java
+C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\service\SEducacion.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\entity\HyS.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\service\UsuarioService.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\service\UserDetailsImpl.java
@@ -19,6 +22,8 @@ C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\Ba
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\dto\DtoHyS.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\ApApplication.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\dto\JwtDto.java
+C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\dto\DtoEducacion.java
+C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\entity\Educacion.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\entity\Experiencia.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\dto\LoginUsuario.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\dto\NuevoUsuario.java

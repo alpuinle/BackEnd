@@ -1,4 +1,7 @@
+com\portfolioalpuinle\ap\controller\CEducacion.class
+com\portfolioalpuinle\ap\service\SEducacion.class
 com\portfolioalpuinle\ap\repository\RExperiencia.class
+com\portfolioalpuinle\ap\dto\DtoEducacion.class
 com\portfolioalpuinle\ap\dto\DtoHyS.class
 com\portfolioalpuinle\ap\service\SExperiencia.class
 com\portfolioalpuinle\ap\controller\CExperiencia.class
@@ -22,11 +25,13 @@ com\portfolioalpuinle\ap\security\controller\AuthController.class
 com\portfolioalpuinle\ap\service\ImpPersonaService.class
 com\portfolioalpuinle\ap\security\jwt\JwtEntryPoint.class
 com\portfolioalpuinle\ap\repository\IPersonaRepository.class
+com\portfolioalpuinle\ap\repository\REducacion.class
 com\portfolioalpuinle\ap\security\repository\IRolRepository.class
 com\portfolioalpuinle\ap\controller\CHyS.class
 com\portfolioalpuinle\ap\dto\DtoExperiencia.class
 com\portfolioalpuinle\ap\entity\Experiencia.class
 com\portfolioalpuinle\ap\security\entity\Usuario.class
+com\portfolioalpuinle\ap\entity\Educacion.class
 com\portfolioalpuinle\ap\security\dto\NuevoUsuario.class
 com\portfolioalpuinle\ap\security\service\UserDetailsImpl.class
 com\portfolioalpuinle\ap\security\dto\JwtDto.class
