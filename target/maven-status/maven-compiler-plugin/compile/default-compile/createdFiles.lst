@@ -3,6 +3,7 @@ com\portfolioalpuinle\ap\service\SEducacion.class
 com\portfolioalpuinle\ap\repository\RExperiencia.class
 com\portfolioalpuinle\ap\dto\DtoEducacion.class
 com\portfolioalpuinle\ap\dto\DtoHyS.class
+com\portfolioalpuinle\ap\dto\DtoPersona.class
 com\portfolioalpuinle\ap\service\SExperiencia.class
 com\portfolioalpuinle\ap\controller\CExperiencia.class
 com\portfolioalpuinle\ap\service\SHyS.class
@@ -36,4 +37,3 @@ com\portfolioalpuinle\ap\security\dto\NuevoUsuario.class
 com\portfolioalpuinle\ap\security\service\UserDetailsImpl.class
 com\portfolioalpuinle\ap\security\dto\JwtDto.class
 com\portfolioalpuinle\ap\security\service\UsuarioService.class
-com\portfolioalpuinle\ap\Interface\IPersonaService.class

@@ -17,7 +17,6 @@ C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\Ba
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\service\UsuarioService.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\service\UserDetailsImpl.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\repository\RHyS.java
-C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\Interface\IPersonaService.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\jwt\JwtTokenFilter.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\dto\DtoHyS.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\ApApplication.java
@@ -32,6 +31,7 @@ C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\Ba
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\dto\DtoExperiencia.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\jwt\JwtProvider.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\entity\Rol.java
+C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\dto\DtoPersona.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\jwt\JwtEntryPoint.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\repository\IRolRepository.java
 C:\Users\Leonardo\Documents\Yo Programo\Proyecto Final\ProyectoFinal_alpuinle\BackEnd\src\main\java\com\portfolioalpuinle\ap\security\service\RolService.java
