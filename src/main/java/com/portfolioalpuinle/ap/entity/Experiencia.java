@@ -13,13 +13,17 @@ public class Experiencia {
   private int id;
   private String nombreE;
   private String  descripcionE;
-  
-  public Experiencia() {
+  private String fechaInicio;
+  private String fechaFin;
+
+    public Experiencia() {
     }
 
-    public Experiencia(String nombreE, String descripcionE) {
+    public Experiencia(String nombreE, String descripcionE, String fechaInicio, String fechaFin) {
         this.nombreE = nombreE;
         this.descripcionE = descripcionE;
+        this.fechaInicio = fechaInicio;
+        this.fechaFin = fechaFin;
     }
 
     public int getId() {
@@ -46,6 +50,20 @@ public class Experiencia {
         this.descripcionE = descripcionE;
     }
 
-    
+    public String getFechaInicio() {
+        return fechaInicio;
+    }
 
+    public void setFechaInicio(String fechaInicio) {
+        this.fechaInicio = fechaInicio;
+    }
+
+    public String getFechaFin() {
+        return fechaFin;
+    }
+
+    public void setFechaFin(String fechaFin) {
+        this.fechaFin = fechaFin;
+    }
+  
 }
